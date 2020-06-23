@@ -2,6 +2,7 @@
 title: Git
 tags:
   - cheatsheet
+  - git
 ---
 
 ## Branches

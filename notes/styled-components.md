@@ -3,6 +3,7 @@ title: Styled Components
 tags:
   - react
   - typescript
+  - css-in-js
 emoji: 💅
 ---
 
