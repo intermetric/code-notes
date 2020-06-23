@@ -1,5 +1,5 @@
 ---
-title: Vue:\ cycle through an array
+title: Cycle through an array
 tags:
   - javascript
   - vue
