@@ -4,6 +4,7 @@ tags:
   - javascript
   - clean code
 emoji: 👷
+link: https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353
 ---
 
 ### **Variables**
