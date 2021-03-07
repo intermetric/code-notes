@@ -10,7 +10,7 @@ module.exports = {
       options: {
         contentPath: "notes",
         basePath: "/",
-        showThemeInfo: true,
+        showThemeInfo: false,
         showDescriptionInSidebar: true,
       },
     },
